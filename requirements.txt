@@ -1,0 +1,4 @@
+openai~=1.10.0
+python-dotenv~=1.0.1
+setuptools~=60.2.0
+telebot~=0.0.5

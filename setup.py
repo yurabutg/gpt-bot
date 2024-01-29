@@ -2,11 +2,11 @@ from setuptools import setup
 
 setup(
     name='gpt-bot',
-    version='',
-    packages=[''],
+    version='0.1',
+    packages=['openai', 'dotenv'],
     url='',
     license='',
     author='yurabutg',
-    author_email='',
+    author_email='yurabutg@gmail.com',
     description=''
 )
